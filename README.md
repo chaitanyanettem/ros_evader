@@ -1,0 +1,1 @@
+This is a ROS package which simulates two robots in a given environment. One being the evader and one being the controller.
